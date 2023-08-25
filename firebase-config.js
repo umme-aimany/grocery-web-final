@@ -1,13 +1,14 @@
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyD6a1g704Tm0l2bITV3AUdPNGBAi1BaYug",
-  authDomain: "grocery-webpage.firebaseapp.com",
-  databaseURL: "https://grocery-webpage-default-rtdb.firebaseio.com",
-  projectId: "grocery-webpage",
-  storageBucket: "grocery-webpage.appspot.com",
-  messagingSenderId: "838936321550",
-  appId: "1:838936321550:web:a5d4d4224b7f527d10665f"
+  apiKey: "AIzaSyBfhH9bGLU9eJAV6RX_kjGwQk6VcN_O-iU",
+  authDomain: "saylani-grocery-web-hakathon.firebaseapp.com",
+  databaseURL: "https://saylani-grocery-web-hakathon-default-rtdb.firebaseio.com",
+  projectId: "saylani-grocery-web-hakathon",
+  storageBucket: "saylani-grocery-web-hakathon.appspot.com",
+  messagingSenderId: "201820868937",
+  appId: "1:201820868937:web:03a5dec3e66770c499ca98",
+  measurementId: "G-0ZMKR7X7ES"
 };
-  
   
   
   
